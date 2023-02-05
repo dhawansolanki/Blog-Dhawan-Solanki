@@ -43,7 +43,7 @@ const ExternalArticles = ({ articles }) => {
 
       <main>
         <ExternalArticlesPage articles={articles} />
-        <Newsletter />
+        {/* <Newsletter /> */}
       </main>
       <Footer />
     </>

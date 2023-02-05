@@ -39,7 +39,7 @@ const Snippets = ({ snippets, error }) => {
 
       <main>
         <SearchPage activeTab={1} snippets={snippets} error={error} />
-        <Newsletter />
+        {/* <Newsletter /> */}
       </main>
 
       <Footer />

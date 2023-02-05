@@ -42,7 +42,7 @@ const SupportMe = () => {
 
       <main>
         <SupportMePage />
-        <Newsletter />
+        {/* <Newsletter /> */}
       </main>
 
       <Footer />

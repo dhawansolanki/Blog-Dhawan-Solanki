@@ -22,7 +22,7 @@ const Home = ({ featuredPost, posts, snippets, categories, error }) => {
           categories={categories}
           error={error}
         />
-        <Newsletter />
+        {/* <Newsletter /> */}
       </main>
       <Footer />
     </>

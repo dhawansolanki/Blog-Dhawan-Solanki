@@ -1,78 +1,78 @@
 const siteConfig = {
   seo: {
-    title: 'itsrakesh - blog',
-    author: 'Rakesh Potnuru',
-    copyright: 'itsrakesh',
+    title: 'Dhawan Solanki - Blogs',
+    author: 'Dhawan Solanki',
+    copyright: 'Dhawan Solanki',
     description:
       'Browse programming tutorials and articles written by Rakesh Potnuru. Learn Web Development, Blockchain, Web3 and Technical writing.',
     image:
-      'https://ik.imagekit.io/itsrakesh/Blog/itsrakesh_-_blog_r0SAC1__p.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838485',
-    altText: 'itsrakesh - blog',
+      './DhawanSolankiLogo.png',
+    altText: 'Dhawan Solanki - Blog',
     ogType: 'website',
     monetizationTag: '$ilp.uphold.com/82eq8NKY4NEZ',
-    twitterUsername: '@rakesh_at_tweet',
+    twitterUsername: '@_dhawansolanki',
     pages: {
       supportMe: {
-        title: 'Support Me | itsrakesh - blog',
+        title: 'Support Me | Dhawan Solanki - Blog',
         description:
           'Your support keeps this blog alive and motivates me to keep creating content.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/support_me_DUCAFlO96.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350841027'
+          './DhawanSolankiLogo.png'
       },
       articles: {
-        title: 'Articles | itsrakesh - blog',
+        title: 'Articles | Dhawan Solanki - Blog',
         description:
           'Read articles on web development, web3, blockchain, design, and more.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/articles_QqdeLjlbl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838382'
+          './DhawanSolankiLogo.png'
       },
       snippets: {
-        title: 'Snippets | itsrakesh - blog',
+        title: 'Snippets | Dhawan Solanki - Blog',
         description:
           'Snippets are code samples and quick tips that I have written. Explore and share them.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/snippets_ma1o5jx8Z.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350839459'
       },
       categories: {
-        title: 'Categories | itsrakesh - blog',
+        title: 'Categories | Dhawan Solanki - Blog',
         description: 'Browse different categories.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/categories_u4RkWWNIi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838394'
       },
       tags: {
-        title: 'Tags | itsrakesh - blog',
+        title: 'Tags | Dhawan Solanki - Blog',
         description: 'Explore all the tags.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/tags_kBWiaEWuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350842330'
       },
       privacy: {
-        title: 'Privacy Policy | itsrakesh - blog',
-        description: 'This page contains itsrakesh - blog privacy policies.',
+        title: 'Privacy Policy | Dhawan Solanki - Blog',
+        description: 'This page contains Dhawan Solanki - blog privacy policies.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/privacy_policy_xq4AJG1mUd.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838506'
       },
       cookie: {
-        title: 'Cookie Policy | itsrakesh - blog',
-        description: 'This page contains itsrakesh - blog cookie policies.',
+        title: 'Cookie Policy | Dhawan Solanki - Blog',
+        description: 'This page contains Dhawan Solanki - blog cookie policies.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/cookie_policy_ulfXI9cMG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656351873708'
       },
       terms: {
-        title: 'Terms & Conditions | itsrakesh - blog',
-        description: 'This page contains itsrakesh - blog terms & conditions.',
+        title: 'Terms & Conditions | Dhawan Solanki - Blog',
+        description: 'This page contains Dhawan Solanki - blog terms & conditions.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/terms___conditions_jb7mesw-j.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350842954'
       },
       externalArticles: {
-        title: 'External Articles | itsrakesh - blog',
-        description: 'Read articles written by Rakesh Potnuru on other sites.',
+        title: 'External Articles | Dhawan Solanki - blog',
+        description: 'Read articles written by Dhawan Solanki on other sites.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/external_articles_urr6u2vH1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657081755552'
       }
     }
   },
   branding: {
-    logo: 'https://ik.imagekit.io/itsrakesh/Blog/blog_logo_Gk6jqlMK8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1650611776118',
+    logo: './DhawanSolankiLogo.png',
     colors: {
       brand: {
         50: '#7868E6',
@@ -93,15 +93,15 @@ const siteConfig = {
   },
   urls: {
     socials: {
-      twitter: 'https://twitter.com/rakesh_at_tweet',
-      linkedin: 'https://www.linkedin.com/in/itsrakesh',
-      github: 'https://github.com/RakeshPotnuru',
-      showwcase: 'https://www.showwcase.com/itsrakesh'
+      twitter: 'https://twitter.com/_dhawansolanki',
+      linkedin: 'https://www.linkedin.com/in/dhawansolanki',
+      github: 'https://github.com/dhawansolanki',
+      showwcase: ''
     },
-    about: 'https://itsrakesh.co/about',
+    about: 'https://dhawansolanki.com',
     status: 'https://status.itsrakesh.co',
     newsletter: 'https://newsletter.itsrakesh.co',
-    kofi: 'https://ko-fi.com/itsrakesh'
+    kofi: 'https://ko-fi.com/dhawansolanki'
   },
   adsense: {
     publisherId: 'pub-5607528168839545',
@@ -110,7 +110,7 @@ const siteConfig = {
       inFeed: '3408517885'
     }
   },
-  copyrightText: `© ${new Date().getFullYear()} itsrakesh. All rights reserved.`,
+  copyrightText: `© ${new Date().getFullYear()} Dhawan Solanki. All rights reserved.`,
   siteVersion: '1.1.0'
 };
 

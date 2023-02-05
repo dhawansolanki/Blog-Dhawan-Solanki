@@ -83,9 +83,9 @@ const Navbar = () => {
             <Link tabIndex={-1}>
               <Image
                 src={siteConfig.branding.logo}
-                alt={'itsrakesh blog logo'}
-                htmlWidth={50}
-                htmlHeight={50}
+                alt={'Dhawan Solanki blog logo'}
+                htmlWidth={150}
+                htmlHeight={150}
                 tabIndex={0}
               />
             </Link>

@@ -57,7 +57,7 @@ const SnippetHome = ({ snippet, snippets, error }) => {
 
       <main>
         <SnippetPage snippet={snippet} snippets={snippets} error={error} />
-        <Newsletter />
+        {/* <Newsletter /> */}
       </main>
 
       <Footer />
